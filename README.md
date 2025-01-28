@@ -4,7 +4,7 @@
 3. Create database schema via `npx mikro-orm schema:create -r`. This will also create the 
    database if it does not exist.
 4. Run via `yarn start` or `yarn start:dev` (nodemon)
-5. Example API is running on http://localhost:3001
+5. API is running on http://localhost:3001
 
 Available routes:
 
